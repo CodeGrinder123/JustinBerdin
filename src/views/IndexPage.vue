@@ -8,20 +8,20 @@
                         <h1 class="my-heading text-2xl tracking-widest">BERDIN</h1>
                     </div>
                 </div>
-                <ul class="flex justify-center gap-5 pb-5 sm:text-xs md:text-base">
-                    <li>
+                <ul class="list-none justify-center gap-5 pb-5 sm:text-xs md:text-base">
+                    <li class="inline-block mr-2">
                         <div class="col-start-1 col-end-3"><a href="#" class="text-white text-sm hover:text-cyan-500">HOME</a></div>
                     </li>
-                    <li>
+                    <li class="inline-block mr-2">
                         <div class="col-center-1 col-span-2"><a href="#about" class="text-white text-sm hover:text-cyan-500 ">ABOUT</a></div>
                     </li>
-                    <li>
+                    <li class="inline-block mr-2">
                         <div class="col-center-1 col-span-2"><a href="#projects" class="text-white text-sm hover:text-cyan-500">PROJECTS</a></div>
                     </li>
-                    <li>
+                    <li class="inline-block mr-2">
                         <div class="col-end-7 col-span-2"><a href="#certificates" class="text-white text-sm hover:text-cyan-500">CERTIFICATES</a></div>
                     </li>
-                    <li>
+                    <li class="inline-block mr-2">
                         <div class="col-end-7 col-span-2"><a href="#contact" class="text-white text-sm hover:text-cyan-500">CONTACT</a></div>
                     </li>
                 </ul>
@@ -45,7 +45,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 md:grid-flow-col gap-4 pt-10 mx-20 mb-10" id="about">
                 <div>
                     <h1 class="my-heading text-3xl text-left font-bold bg-gradient-to-r from-cyan-500 to-teal-400 text-transparent bg-clip-text">Interactive</h1>
-                    <h1 class="my-heading text-4xl text-left font-bold bg-gradient-to-r from-cyan-500 to-teal-400 text-transparent bg-clip-text">VISIONARY</h1>
+                    <h1 class="my-heading text-3xl text-left font-bold bg-gradient-to-r from-cyan-500 to-teal-400 text-transparent bg-clip-text">VISIONARY</h1>
                     <p class="block text-left text-justify text-white mb-5 mt-10">
                         Welcome to my portfolio, where creativity meets innovation!
                     </p>

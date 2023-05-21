@@ -5,20 +5,20 @@
                 <h1 class="my-heading text-2xl tracking-widest text-center">BERDIN</h1>
             </div>
         </div>
-        <ul class="flex justify-center gap-5 pb-5 sm:text-xs md:text-base">
-            <li>
+        <ul class="list-none justify-center gap-5 pb-5 sm:text-xs md:text-base text-center">
+            <li class="inline-block mr-2">
                 <div class="col-start-1 col-end-3"><a href="#" @click="goHome" class="text-black text-sm hover:text-cyan-500">HOME</a></div>
             </li>
-            <li>
+            <li class="inline-block mr-2">
                 <div class="col-center-1 col-span-2"><a href="#about" @click="goHome" class="text-black text-sm hover:text-cyan-500 ">ABOUT</a></div>
             </li>
-            <li>
+            <li class="inline-block mr-2">
                 <div class="col-center-1 col-span-2"><a href="#projects" @click="goBack" class="text-black text-sm hover:text-cyan-500">PROJECTS</a></div>
             </li>
-            <li>
+            <li class="inline-block mr-2">
                 <div class="col-end-7 col-span-2"><a href="#certificates" @click="goHome" class="text-black text-sm hover:text-cyan-500">CERTIFICATES</a></div>
             </li>
-            <li>
+            <li class="inline-block mr-2">
                 <div class="col-end-7 col-span-2"><a href="#contact" @click="contactMe" class="text-black text-sm hover:text-cyan-500">CONTACT</a></div>
             </li>
         </ul>
