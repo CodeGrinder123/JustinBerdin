@@ -436,7 +436,7 @@
                                 <div class="flex items-center">
                                     <img width="100" height="100" src="../assets/logo/coursera_logo.png" alt="Your Image">
                                     <div class="ml-4">
-                                        <p class="text-white text-left font-semibold">University Of Michicgan: <br>Programming for Everybody (Python)</p>
+                                        <p class="text-white text-left font-semibold">University Of Michigan: <br>Programming for Everybody (Python)</p>
                                         <p class="text-white text-left">Coursera</p>
                                     </div>
                                 </div>
