@@ -16,8 +16,8 @@
     "google-fonts-webpack-plugin": "^0.4.4",
     "postcss": "^8.4.23",
     "smooth-scroll": "^16.1.3",
-    "vue": "^3.3.4",
-    "vue-router": "^4.2.1"
+    "vue": "^3.2.13",
+    "vue-router": "^4.1.3"
   },
   "devDependencies": {
     "@babel/core": "^7.21.8",
